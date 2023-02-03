@@ -1,0 +1,6 @@
+*.hspy
+*.hdf5
+.ipynb_checkpoints/
+.vs/
+*.png
+*.svg
