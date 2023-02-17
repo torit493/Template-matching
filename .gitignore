@@ -139,6 +139,5 @@ dmypy.json
 *.png
 
 # Others to be ignored:
-*.cif
 *.hspy
 *.hdf5
